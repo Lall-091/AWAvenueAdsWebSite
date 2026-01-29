@@ -102,7 +102,7 @@ pageClass: subscription-page
 
   这是一种最通用的格式，写法简单，但理论上只要能修改系统hosts，你就可以使用此格式的规则，这里推荐[AdAway](https://adaway.org/)。
 
-  对于使用KelnelSU的AdAway用户，你应该额外刷入[Systemless-hosts-KernelSU](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)这个模块。
+  对于使用KelnelSU的AdAway用户，你应该额外刷入[bindhosts](https://github.com/bindhosts/bindhosts)这个模块。
   </template>
 
   <!-- Clash -->
